@@ -20,8 +20,8 @@ Hi, I'm Diya!
 </p>
 <hr>
 <pre>
-📚 Currently doing B-Tech in Computer Engineering from Punjabi University Patiala
-🌱 I’m currently learning Web Development
+📚 Currently doing B-Tech in Computer Science And Engineering from Punjabi University Patiala
+🌱 I’m interested in learning Web Development,Machine Learning 
 📝 I have a strong interest in Data Science and Artificial Intelligence
 🔭 Currently Learning Deep Learning & Machine Learning
   
